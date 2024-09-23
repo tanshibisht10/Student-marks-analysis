@@ -1,0 +1,5 @@
+1. extract student data from studentdata.zip
+2. go inside the student data folder (copy path --> eg. C:\Users\HP\Downloads\student data)
+3. go in cmd
+4. in cmd type --> cd C:\Users\HP\Downloads\student data (press enter)
+5. then type -->copy *.csv (combine.csv)-->this is the name that u want to give to the new combined file (this will create a combine dataset)
